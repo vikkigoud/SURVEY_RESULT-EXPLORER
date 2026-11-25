@@ -1,0 +1,326 @@
+{
+  "schema_version": 1,
+  "updated_at": "2026-11-23T11:29:06",
+  "records": [
+    {
+      "id": "6fc4498c",
+      "respondent": "Student 01",
+      "category": "Academics",
+      "rating": 88.0,
+      "response_date": "2026-07-14",
+      "comments": "Excellent service"
+    },
+    {
+      "id": "82d7f40a",
+      "respondent": "Student 02",
+      "category": "Campus Facilities",
+      "rating": 69.0,
+      "response_date": "2026-10-30",
+      "comments": "Excellent service"
+    },
+    {
+      "id": "5d3f3172",
+      "respondent": "Student 03",
+      "category": "Student Services",
+      "rating": 95.0,
+      "response_date": "2026-10-14",
+      "comments": "Could be improved"
+    },
+    {
+      "id": "01a7a207",
+      "respondent": "Student 04",
+      "category": "Technology",
+      "rating": 78.0,
+      "response_date": "2026-11-08",
+      "comments": "Helpful experience"
+    },
+    {
+      "id": "af801bc3",
+      "respondent": "Student 05",
+      "category": "Events",
+      "rating": 38.0,
+      "response_date": "2026-10-12",
+      "comments": "Excellent service"
+    },
+    {
+      "id": "7c051228",
+      "respondent": "Student 06",
+      "category": "Food",
+      "rating": 55.0,
+      "response_date": "2026-10-14",
+      "comments": "No additional feedback"
+    },
+    {
+      "id": "a1bd66b6",
+      "respondent": "Student 07",
+      "category": "Academics",
+      "rating": 96.0,
+      "response_date": "2026-10-12",
+      "comments": "Could be improved"
+    },
+    {
+      "id": "467cc128",
+      "respondent": "Student 08",
+      "category": "Campus Facilities",
+      "rating": 54.0,
+      "response_date": "2026-07-28",
+      "comments": "Could be improved"
+    },
+    {
+      "id": "88943250",
+      "respondent": "Student 09",
+      "category": "Student Services",
+      "rating": 90.0,
+      "response_date": "2026-08-23",
+      "comments": "No additional feedback"
+    },
+    {
+      "id": "535b0052",
+      "respondent": "Student 10",
+      "category": "Technology",
+      "rating": 39.0,
+      "response_date": "2026-09-15",
+      "comments": "Very satisfied"
+    },
+    {
+      "id": "effa7d5c",
+      "respondent": "Student 11",
+      "category": "Events",
+      "rating": 57.0,
+      "response_date": "2026-09-28",
+      "comments": "Excellent service"
+    },
+    {
+      "id": "bf7de947",
+      "respondent": "Student 12",
+      "category": "Food",
+      "rating": 57.0,
+      "response_date": "2026-09-26",
+      "comments": "Excellent service"
+    },
+    {
+      "id": "312d9157",
+      "respondent": "Student 13",
+      "category": "Academics",
+      "rating": 53.0,
+      "response_date": "2026-07-23",
+      "comments": "Helpful experience"
+    },
+    {
+      "id": "40bcf58c",
+      "respondent": "Student 14",
+      "category": "Campus Facilities",
+      "rating": 83.0,
+      "response_date": "2026-09-11",
+      "comments": "Needs attention"
+    },
+    {
+      "id": "21fc3d42",
+      "respondent": "Student 15",
+      "category": "Student Services",
+      "rating": 71.0,
+      "response_date": "2026-10-29",
+      "comments": "Excellent service"
+    },
+    {
+      "id": "0b943888",
+      "respondent": "Student 16",
+      "category": "Technology",
+      "rating": 42.0,
+      "response_date": "2026-08-27",
+      "comments": "No additional feedback"
+    },
+    {
+      "id": "16417cb2",
+      "respondent": "Student 17",
+      "category": "Events",
+      "rating": 52.0,
+      "response_date": "2026-09-06",
+      "comments": "Smooth process"
+    },
+    {
+      "id": "e5c57bf4",
+      "respondent": "Student 18",
+      "category": "Food",
+      "rating": 44.0,
+      "response_date": "2026-10-31",
+      "comments": "More support would help"
+    },
+    {
+      "id": "e5037433",
+      "respondent": "Student 19",
+      "category": "Academics",
+      "rating": 97.0,
+      "response_date": "2026-10-15",
+      "comments": "Needs attention"
+    },
+    {
+      "id": "953d0a79",
+      "respondent": "Student 20",
+      "category": "Campus Facilities",
+      "rating": 75.0,
+      "response_date": "2026-10-19",
+      "comments": "Smooth process"
+    },
+    {
+      "id": "5fd8dfb9",
+      "respondent": "Student 21",
+      "category": "Student Services",
+      "rating": 63.0,
+      "response_date": "2026-07-03",
+      "comments": "Clear communication"
+    },
+    {
+      "id": "d8003cb7",
+      "respondent": "Student 22",
+      "category": "Technology",
+      "rating": 97.0,
+      "response_date": "2026-09-30",
+      "comments": "Very satisfied"
+    },
+    {
+      "id": "0097c62d",
+      "respondent": "Student 23",
+      "category": "Events",
+      "rating": 75.0,
+      "response_date": "2026-11-21",
+      "comments": "Helpful experience"
+    },
+    {
+      "id": "91000b7e",
+      "respondent": "Student 24",
+      "category": "Food",
+      "rating": 44.0,
+      "response_date": "2026-10-19",
+      "comments": "Clear communication"
+    },
+    {
+      "id": "1844ca46",
+      "respondent": "Student 25",
+      "category": "Academics",
+      "rating": 80.0,
+      "response_date": "2026-07-22",
+      "comments": "Could be improved"
+    },
+    {
+      "id": "f6915b01",
+      "respondent": "Student 26",
+      "category": "Campus Facilities",
+      "rating": 46.0,
+      "response_date": "2026-10-07",
+      "comments": "Clear communication"
+    },
+    {
+      "id": "00549f90",
+      "respondent": "Student 27",
+      "category": "Student Services",
+      "rating": 77.0,
+      "response_date": "2026-07-08",
+      "comments": "Could be improved"
+    },
+    {
+      "id": "898a28ca",
+      "respondent": "Student 28",
+      "category": "Technology",
+      "rating": 38.0,
+      "response_date": "2026-07-12",
+      "comments": "Could be improved"
+    },
+    {
+      "id": "38c53405",
+      "respondent": "Student 29",
+      "category": "Events",
+      "rating": 87.0,
+      "response_date": "2026-08-12",
+      "comments": "Clear communication"
+    },
+    {
+      "id": "e52d4324",
+      "respondent": "Student 30",
+      "category": "Food",
+      "rating": 59.0,
+      "response_date": "2026-09-28",
+      "comments": "Smooth process"
+    },
+    {
+      "id": "ed19e709",
+      "respondent": "Student 31",
+      "category": "Academics",
+      "rating": 94.0,
+      "response_date": "2026-08-09",
+      "comments": "Clear communication"
+    },
+    {
+      "id": "c9e25845",
+      "respondent": "Student 32",
+      "category": "Campus Facilities",
+      "rating": 74.0,
+      "response_date": "2026-10-11",
+      "comments": "Good overall"
+    },
+    {
+      "id": "eaed904f",
+      "respondent": "Student 33",
+      "category": "Student Services",
+      "rating": 87.0,
+      "response_date": "2026-08-15",
+      "comments": "Clear communication"
+    },
+    {
+      "id": "e45ed18d",
+      "respondent": "Student 34",
+      "category": "Technology",
+      "rating": 57.0,
+      "response_date": "2026-06-27",
+      "comments": "More support would help"
+    },
+    {
+      "id": "28e928f3",
+      "respondent": "Student 35",
+      "category": "Events",
+      "rating": 43.0,
+      "response_date": "2026-07-07",
+      "comments": "Smooth process"
+    },
+    {
+      "id": "eef1507c",
+      "respondent": "Student 36",
+      "category": "Food",
+      "rating": 58.0,
+      "response_date": "2026-09-01",
+      "comments": "Excellent service"
+    },
+    {
+      "id": "8782a1cf",
+      "respondent": "Student 37",
+      "category": "Academics",
+      "rating": 59.0,
+      "response_date": "2026-07-13",
+      "comments": "No additional feedback"
+    },
+    {
+      "id": "1632852a",
+      "respondent": "Student 38",
+      "category": "Campus Facilities",
+      "rating": 39.0,
+      "response_date": "2026-10-31",
+      "comments": "Needs attention"
+    },
+    {
+      "id": "11ec9c64",
+      "respondent": "Student 39",
+      "category": "Student Services",
+      "rating": 86.0,
+      "response_date": "2026-11-23",
+      "comments": "Good overall"
+    },
+    {
+      "id": "ace7fa3e",
+      "respondent": "Student 40",
+      "category": "Technology",
+      "rating": 59.0,
+      "response_date": "2026-07-03",
+      "comments": "Very satisfied"
+    }
+  ]
+}
